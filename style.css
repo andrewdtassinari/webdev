@@ -1,0 +1,41 @@
+
+  .header3{
+    margin-left: 400px;
+    color: white;
+    font-size: 20;
+    font-family: tahoma;
+  }
+  .header2{
+    text-align: center;
+    color: white;
+    line-height: 0;
+    font-family: tahoma;
+  }
+  .header{
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    font-family: tahoma;
+  }
+  .hr{
+    padding: 0px;
+    margin: 15px;
+    margin-right:400px;
+    margin-left:400px;
+    margin-top:2em;
+    border-color: white;
+    font-family: tahoma;
+  }
+  .bullet{
+    margin-left: 450px;
+    margin-bottom: 0px;
+    color: white;
+    font-family: tahoma;
+  }
+  .tab_bullet{
+    margin-left: 475px;
+    margin-top: 0px;
+    font-size: 10px;
+    color: white;
+    font-family: tahoma;
+  }
